@@ -57,8 +57,8 @@
 <!-- GitHub stats side by side with border top only -->
 <div align="center" style="padding: 10px; border-top: 1px solid;">
   <a href="https://github.com/Rafa-x64">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael-Alvarez-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafael-Alvarez-Tech&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafa-x64&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafa-x64&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
 
