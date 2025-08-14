@@ -50,13 +50,13 @@
 <!-- Tech stack icons in a single row -->
 <div align="center" style="padding: 10px; margin-bottom:15px; margin-top:15px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,c,cpp,java,mysql,nodejs,javascript,react,linux,vscode,netbeans&perline=15" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,c,cpp,java,mysql,nodejs,javascript,linux,vscode,netbeans&perline=15" />
   </a>
 </div>
 
 <!-- GitHub stats side by side with border top only -->
 <div align="center" style="padding: 10px; border-top: 1px solid;">
-  <a href="https://github.com/Rafael-Alvarez-Tech">
+  <a href="https://github.com/Rafa-x64">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael-Alvarez-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafael-Alvarez-Tech&layout=compact&langs_count=8&theme=dark"/>
   </a>
