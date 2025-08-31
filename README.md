@@ -40,7 +40,7 @@
 <!-- Tech stack icons in a single row -->
 <div align="center" style="padding: 10px; margin-bottom:15px; margin-top:15px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,laravel,mysql,react,nodejs,git,c,cpp,gtk,java,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,laravel,mysql,react,nodejs,git,c,cpp,java,linux&perline=15" />
   </a>
 </div>
 
