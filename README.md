@@ -118,14 +118,14 @@ Includes a basic **HTML frontend** for endpoint testing (non-responsive).
 
 ---
 
-### [🛒 EasyStreet (Basic Exercise)](https://github.com/Rafa-x64/EasyStreet)  
-Beginner-friendly **web shopping app** built with **pure PHP**, **HTML**, and **CSS**.  
-Simulates a simple purchase flow and reinforces **form handling** and **server-side scripting**.
+### [📋Task Manager App](https://github.com/Rafa-x64/App-de-Tareas-con-AJAX.git)  
+**Task Manager App** is a modular **PHP-based** web application for efficient task tracking. Built with a clean **MVC** architecture, it leverages **AJAX** (via Fetch API) for real-time communication between frontend and backend. The project uses **PHP** (vanilla + Composer), **JavaScript** (ES6), **Bootstrap** for responsive UI, **HTML5** and **CSS3**, and custom reusable helpers for both frontend and backend logic. Designed for scalability, clarity, and defensive validation, it supports dynamic task updates without page reloads.
+
 
 <span style="font-weight: bold; font-size: 20px;">Tech Stack:</span>
 <div style="display: flex; align-items: center; align-content: center; gap: 10px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,mysql&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,js,mysql&perline=7" />
   </a>
 </div>
 
