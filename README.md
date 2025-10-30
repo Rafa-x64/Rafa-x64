@@ -40,7 +40,7 @@
 <!-- Tech stack icons in a single row -->
 <div align="center" style="padding: 10px; margin-bottom:15px; margin-top:15px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,laravel,mysql,react,nodejs,git,c,cpp,java,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,laravel,postgresql,mysql,react,nodejs,git,c,cpp,java,linux&perline=15" />
   </a>
 </div>
 
@@ -85,23 +85,30 @@
 </p>
 
 ### 🚧 Currently Working On
-- 🧠 Learning C/C++ based on my existing knowledge of C, focusing on structures, pointers, and best practices  
-- 🗃️ Designing and optimizing the database for my WMS inventory management system  
-- 🔄 Sharpening my Git skills: branching, restoration, and collaborative workflows  
-- 🧱 Exploring PHP best practices and modern architectures to write cleaner, scalable code
+
+- 🧠 Deepening my understanding of **C/C++**, building on prior knowledge to master pointers, memory management, and modular design  
+- 🗃️ Architecting and optimizing the **PostgreSQL database** for *QuickStock*, my fourth-semester inventory management system built with a clean **PHP MVC structure**  
+- 🔌 Implementing **local and external API endpoints** for asynchronous operations, integrating them into a modular backend with clear controller-model separation  
+- 📦 Strengthening my **React** skills to build dynamic interfaces and prepare for future hybrid frontend integration  
+- 🧱 Refining my backend logic with **PHP best practices**, focusing on reusable components, secure query execution, and scalable controller flows  
+- 📚 Documenting the entire system with technical clarity: ER diagrams, flowcharts, changelogs, and developer guides  
+- 🔄 Enhancing my **Git workflow** with branching strategies, rollback techniques, and collaborative version control for academic and production-grade projects  
+
 
 ### 🌟 Featured Projects
 
-### [📦 WMS](https://github.com/Rafa-x64/Gestion_inventario_practica)  
-Inventory Management System for small businesses and startups.  
-Manages **products**, **sales**, **suppliers**, and **employees** using a clean **MVC architecture**, modular **PHP components**, and secure **session handling**.
+### [📦 QuickStock](https://github.com/Rafa-x64/QuickStock-Inventory-Management-System-in-PHP.git)  
+Modular Inventory Management System built for academic and professional scalability.  
+QuickStock manages **users**, **branches**, **products**, **inventory**, and **sales** using a clean **MVC architecture**, reusable **PHP components**, and secure **session handling**.  
+It integrates **local and external APIs**, supports **PostgreSQL**, and follows best practices in backend logic, documentation, and modular design.
 
-<span style="font-weight: bold; font-size: 20px;">Tech Stack:</span>
+<span style="font-weight: bold; font-size: 20px;">Tech Stack:</span>  
 <div style="display: flex; align-items: center; align-content: center; gap: 10px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,postgresql,git,ajax,htaccess&perline=7" />
   </a>
 </div>
+
 
 ---
 
